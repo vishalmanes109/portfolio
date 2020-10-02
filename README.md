@@ -4,7 +4,7 @@
     <h3>I am Vishal Mane </h3>
     <h4>Full Stack Developer </h4>
     <a href="https://vishalmanes109.github.io/portfolio/">
-        <img src="img/logo1.png" alt="Logo" width="25%" height="25%">
+        <img src="img/logo1.png" alt="Logo" width="5%" height="5%">
     </a>
 </p>    
 
@@ -21,4 +21,4 @@
 <a href="./files/Vishal_Mane_Resume_oct2020.docx"> Get Resume </a> 
 
 # Visit Website 
-<a href=" https://vishalmanes109.github.io/portfolio/" >Portfolio</a>
+<a href="https://vishalmanes109.github.io/portfolio/" >Portfolio</a>
