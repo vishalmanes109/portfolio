@@ -4,7 +4,7 @@
     <h3>I am Vishal Mane </h3>
     <h4>Full Stack Developer </h4>
     <a href="https://vishalmanes109.github.io/portfolio/">
-        <img src="img/logo1.png" alt="Logo" width="5%" height="5%">
+        <img src="img/logo1.png" alt="Logo" width="15%" height="15%">
     </a>
 </p>    
 
