@@ -6,6 +6,7 @@
     <a href="https://vishalmanes109.github.io/portfolio/">
         <img src="img/logo1.png" alt="Logo" width="15%" height="15%">
     </a>
+    
 </p>    
 
 
